@@ -1,0 +1,31 @@
+.container{
+    width: 100;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.square{
+    height: 35px;
+    width: 50px;
+    margin: 5px;
+}
+form input{
+    height: 50px;
+    width: 235px;
+    
+}
+input{
+    border: solid red 0px;
+    
+}
+.calculator{
+    border: solid rgb(197, 191, 191) 2px;
+}
+#input{
+    outline-style: none;
+    text-align: end;
+    font-size: 25px;
+
+}
